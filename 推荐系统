@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T11:36:16.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.4.3" etag="Q9Q_aDTodPUJ4xSLeIJx" type="github"><diagram id="2tTHVTkmLM6dJ7TEwuij">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-18T11:40:26.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="1DGkYoxIcBlevFFQ-blH" version="14.4.3" type="github">
+  <diagram id="2tTHVTkmLM6dJ7TEwuij" name="Page-1">
+    <mxGraphModel dx="404" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nNg_atxpjwVUF51FPP3--1" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nNg_atxpjwVUF51FPP3--3" value="网站" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nNg_atxpjwVUF51FPP3--5" value="&amp;nbsp; 内容提供方" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nNg_atxpjwVUF51FPP3--6" value="推荐&lt;br&gt;系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nNg_atxpjwVUF51FPP3--9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#ffffff;fillColor=none;shadow=0;sketch=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="150" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
