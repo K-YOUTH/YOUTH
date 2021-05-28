@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T02:03:53.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JMT7bhlrQ_9z2Exo51KV" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T02:23:45.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KiLIpxPu8O8jdelSUaql" version="14.7.2" type="github">
   <diagram id="0o1bGG3voPD8871ckpIc" name="Page-1">
-    <mxGraphModel dx="1739" dy="967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,6 +147,27 @@
         </mxCell>
         <mxCell id="3QcXpeKtyjzvwOSksKCE-2" value="循环调用，检测流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="263.03" y="783" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="893" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="1187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QcXpeKtyjzvwOSksKCE-6" target="3QcXpeKtyjzvwOSksKCE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-6" value="对数据包进行解码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3QcXpeKtyjzvwOSksKCE-7" target="3QcXpeKtyjzvwOSksKCE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-7" value="调用预处理器对数据包进行预处理&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;SetPktProcessor()&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="1073" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3QcXpeKtyjzvwOSksKCE-9" value="对报文匹配规则" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190.5" y="1167" width="253" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
