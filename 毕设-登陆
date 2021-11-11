@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T11:42:52.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Jmtgv4XhqEYXzBdj-K3A" version="15.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T11:44:00.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bSfMYmJrEjf2vpCnxmyi" version="15.7.2" type="github">
   <diagram id="rPH2bio7_438Cx574q4W" name="Page-1">
     <mxGraphModel dx="490" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           <mxGeometry x="209.5" y="424" width="100" height="29" as="geometry" />
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-24" value="用户名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="525" width="76" height="36" as="geometry" />
+          <mxGeometry x="133.5" y="564" width="76" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-29" target="-I0ptYcac_l8oNe8eWQk-31">
           <mxGeometry relative="1" as="geometry">
@@ -72,22 +72,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-29" value="密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="582" width="76" height="36" as="geometry" />
+          <mxGeometry x="53" y="628" width="76" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-31" value="再次密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="661" width="76" height="36" as="geometry" />
+          <mxGeometry x="50" y="697" width="76" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-I0ptYcac_l8oNe8eWQk-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-24" target="-I0ptYcac_l8oNe8eWQk-29">
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-24" target="-I0ptYcac_l8oNe8eWQk-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="583" as="sourcePoint" />
             <mxPoint x="140" y="603.7106781186548" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="93" y="550" />
+              <mxPoint x="134" y="614" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-I0ptYcac_l8oNe8eWQk-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-35" target="-I0ptYcac_l8oNe8eWQk-46">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-35" value="表单验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207" y="645" width="76" height="36" as="geometry" />
@@ -102,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-38" value="注册按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="697" width="60" height="30" as="geometry" />
+          <mxGeometry x="129" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-40" value="注册成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177" y="772" width="78" height="45" as="geometry" />
