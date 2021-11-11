@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T11:44:00.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bSfMYmJrEjf2vpCnxmyi" version="15.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T11:50:34.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KvW0SrMGLbXtp0_Ahi6D" version="15.7.2" type="github">
   <diagram id="rPH2bio7_438Cx574q4W" name="Page-1">
     <mxGraphModel dx="490" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,6 +140,45 @@
         </mxCell>
         <mxCell id="-I0ptYcac_l8oNe8eWQk-60" value="密码格式错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="722" width="100" height="28.71" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-61" target="-I0ptYcac_l8oNe8eWQk-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-61" value="输入文本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="575" width="107" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-63" target="-I0ptYcac_l8oNe8eWQk-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-63" target="-I0ptYcac_l8oNe8eWQk-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="752.1818237304688" y="587.1818695068359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="733" y="681" />
+              <mxPoint x="733" y="594" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-63" value="判断是否为&lt;br&gt;合法URL文本" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="548" y="640" width="129" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-I0ptYcac_l8oNe8eWQk-66" target="-I0ptYcac_l8oNe8eWQk-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-66" value="进行检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="561" y="750.71" width="103" height="45.29" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-68" value="返回检测结果&lt;br&gt;结束" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="554" y="839" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-71" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594" y="716" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-72" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="672" y="657" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-I0ptYcac_l8oNe8eWQk-73" value="重新输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="593" width="21" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
